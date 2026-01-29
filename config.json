@@ -77,6 +77,35 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "web-data-visualizer",
+      "title": "Web Data Visualizer",
+      "description": "Build an interactive web-based data visualizer using HTML, CSS, and JavaScript",
+      "path": "assignments/web-data-visualizer",
+      "dueDate": "2026-03-15",
+      "attachments": [
+        {
+          "name": "HTML Template",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "CSS Starter",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "script.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
